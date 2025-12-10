@@ -1,6 +1,7 @@
 # Habit Hero – Full Stack Habit Tracking App
 
 Habit Hero is a full‑stack habit tracking application built with **Django REST Framework** and **React**. It helps users build strong habits through daily check‑ins, reminders, analytics, and downloadable PDF reports.
+
 ---
 
 ## Features
